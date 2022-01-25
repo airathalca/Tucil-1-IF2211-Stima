@@ -16,5 +16,4 @@ you can also go to bin folder and execute `word_search.exe`
 
 ## Author
 
-| Nama / NIM                            |
-| Aira Thalca Avila Putra / 13520101    |
+Aira Thalca Avila Putra / 13520101
